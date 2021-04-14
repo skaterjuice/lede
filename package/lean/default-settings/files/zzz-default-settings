@@ -7,7 +7,7 @@ uci set luci.themes.Open=/luci-static/open
 uci	set luci.main.mediaurlbase=/luci-static/open
 commit luci
 
-uci set system.@system[0].timezone=Asia/Shanghai
+uci set system.@system[0].timezone=CST-8
 uci set system.@system[0].zonename=Asia/Shanghai
 uci commit system
 
