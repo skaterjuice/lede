@@ -14,3 +14,4 @@ src-git jerryk https://github.com/jerrykuku/openwrt-package.git
 src-git verne https://github.com/vernesong/OpenClash.git
 src-git open https://github.com/skaterjuice/luci-theme-open.git
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
+src-git plugins https://github.com/kenzok8/small.git
